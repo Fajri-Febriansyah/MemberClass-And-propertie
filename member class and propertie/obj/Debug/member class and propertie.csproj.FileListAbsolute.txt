@@ -1,0 +1,8 @@
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\obj\Debug\member class and propertie.csproj.AssemblyReference.cache
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\obj\Debug\member class and propertie.csproj.SuggestedBindingRedirects.cache
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\obj\Debug\member class and propertie.csproj.CoreCompileInputs.cache
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\bin\Debug\member class and propertie.exe.config
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\bin\Debug\member class and propertie.exe
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\bin\Debug\member class and propertie.pdb
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\obj\Debug\member class and propertie.exe
+E:\DOKUMEN\KODING AJI\member class and propertie\member class and propertie\obj\Debug\member class and propertie.pdb
